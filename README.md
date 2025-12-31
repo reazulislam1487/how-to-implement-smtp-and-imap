@@ -209,12 +209,3 @@ This setup scales well and avoids performance issues.
 
 ---
 
-End of README
-"""
-
-path = "/mnt/data/README.md"
-with open(path, "w") as f:
-    f.write(content)
-
-path
-
